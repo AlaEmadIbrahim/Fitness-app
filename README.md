@@ -4,25 +4,24 @@ Hello, I'm [ALA], a highly skilled web developer with considerable experience in
 
 ## Front-End Development
 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** | 
-  ![React.js](https://img.icons8.com/color/48/000000/react.png) **React.js** | 
-  ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) **Angular**
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  | 
+  ![React.js](https://img.icons8.com/color/48/000000/react.png) | 
 
-- ![HTML and CSS](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) **HTML and CSS** | 
-  ![Redux](https://img.icons8.com/color/48/000000/redux.png) **Redux** | 
-  ![Jest](https://img.icons8.com/color/48/000000/jest.png) **Jest** | 
-  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap**
+- ![HTML and CSS](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)  | 
+  ![Redux](https://img.icons8.com/color/48/000000/redux.png)| 
+  ![Jest](https://img.icons8.com/color/48/000000/jest.png)  | 
+  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
 
 ## Back-End Development
 
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js** | 
-  ![Express.js](https://img.icons8.com/color/48/000000/express.png) **Express.js**
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | 
+  ![Express.js](https://img.icons8.com/color/48/000000/express.png) 
 
-- ![Socket.IO](https://img.icons8.com/color/48/000000/socket-io.png) **Socket.IO** | 
-  ![Security](https://img.icons8.com/color/48/000000/lock.png) **Security** | 
-  ![Database](https://img.icons8.com/color/48/000000/database.png) **Database**
+- ![Socket.IO](https://img.icons8.com/color/48/000000/socket-io.png)  | 
+  ![Security](https://img.icons8.com/color/48/000000/lock.png)  | 
+  ![Database](https://img.icons8.com/color/48/000000/database.png)
 
-- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS** | 
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)  | 
   ![Mapbox](https://img.icons8.com/color/48/000000/mapbox.png) **Mapbox**
 
 I'm dedicated to delivering high-quality web solutions, and I'm always eager to take on new challenges and learn new technologies to stay at the forefront of web development. Let's collaborate and turn your ideas into innovative web experiences!
